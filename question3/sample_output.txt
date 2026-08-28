@@ -1,0 +1,23 @@
+Company Name	Location	Founded Year
+BNY Mellon	New York City, New York	1784
+State Street Corporation	Boston, Massachusetts	1792
+Colgate-Palmolive	New York City, New York	1806
+Hartford (The)	Hartford, Connecticut	1810
+Bunge Global	Chesterfield, Missouri	1818
+Consolidated Edison	New York City, New York	1823
+KeyCorp	Cleveland, Ohio	1825
+Citizens Financial Group	Providence, Rhode Island	1828
+McKesson Corporation	Irving, Texas	1833
+Deere & Company	Moline, Illinois	1837
+Procter & Gamble	Cincinnati, Ohio	1837
+Berkshire Hathaway	Omaha, Nebraska	1839
+Stanley Black & Decker	New Britain, Connecticut	1843
+PNC Financial Services	Pittsburgh, Pennsylvania	1845
+Church & Dwight	Ewing, New Jersey	1847
+CME Group	Chicago, Illinois	1848
+Pfizer	New York City, New York	1849
+American Express	New York City, New York	1850
+Corning Inc.	Corning, New York	1851
+Wells Fargo	San Francisco, California	1852
+...
+(503 companies total, truncated here for readability)
